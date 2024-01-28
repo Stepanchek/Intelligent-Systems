@@ -6,9 +6,7 @@
         <entry key="$PROJECT_DIR$/.idea/Jupyter.iml">
           <value>
             <JupyterConnectionParameters>
-              <option name="argv" value="notebook" />
               <option name="managed" value="true" />
-              <option name="sdkName" value="Python 3.10 (2)" />
             </JupyterConnectionParameters>
           </value>
         </entry>
